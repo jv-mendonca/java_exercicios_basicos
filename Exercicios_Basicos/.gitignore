@@ -1,0 +1,11 @@
+# Ignorar arquivos de compilação
+/bin/
+/target/
+
+/*.class
+
+# Ignorar arquivos de configuração específicos do IDE
+/.settings/
+/.classpath
+/.project
+/.metadata
