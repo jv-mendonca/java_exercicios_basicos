@@ -3,7 +3,7 @@ package exercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicios010 {
+public class Exercicio010 {
 
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);

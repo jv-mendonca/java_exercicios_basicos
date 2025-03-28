@@ -26,7 +26,7 @@ public class Exercicio09 {
 			System.out.println("O numero Nao sao multiplos");
 		}
 		
-		
+		sc.close();
 
 	}
 
